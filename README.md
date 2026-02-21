@@ -37,7 +37,7 @@ Within each Data Flow Task, raw data undergoes a rigorous transformation process
 <img width="1064" height="452" alt="Captura de pantalla 2026-02-21 013346" src="https://github.com/user-attachments/assets/efceecef-6bbb-4d65-a613-54a6ff06d808" />
 <img width="608" height="497" alt="Captura de pantalla 2026-02-21 013358" src="https://github.com/user-attachments/assets/b6fcb80e-7b0a-45da-a333-aaa4097943da" />
 <img width="721" height="441" alt="Captura de pantalla 2026-02-21 013403" src="https://github.com/user-attachments/assets/36c87fe7-09db-43ad-9163-8224913cbf10" />
-<img width="1057" height="587" alt="Captura de pantalla 2026-02-21 013416" src="https://github.com/user-attachments/assets/d5c5a4c1-90cc-4995-92b7-c83f03c6e89a" />
+<img width="1015" height="522" alt="Captura de pantalla 2026-02-21 021646" src="https://github.com/user-attachments/assets/2ef660bc-bc37-4af0-a69f-1e6818e74524" />
 <img width="638" height="798" alt="Captura de pantalla 2026-02-21 013517" src="https://github.com/user-attachments/assets/5da73611-7f28-4a98-b13e-05d2af8d5846" />
 ## Power bi
 <img width="1261" height="711" alt="image" src="https://github.com/user-attachments/assets/0620c820-40fb-43c6-a37d-a61be005af34" />
