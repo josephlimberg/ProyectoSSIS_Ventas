@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Proyecto_VentasDM", "Proyecto_VentasDM\Proyecto_VentasDM.dtproj", "{AB3A2E91-554E-216E-4379-4C3187239210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB3A2E91-554E-216E-4379-4C3187239210}.Development|Default.ActiveCfg = Development
+		{AB3A2E91-554E-216E-4379-4C3187239210}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E20FC41-642D-4CC6-A0F9-850491B38520}
+	EndGlobalSection
+EndGlobal
